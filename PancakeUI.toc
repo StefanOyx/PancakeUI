@@ -1,0 +1,9 @@
+## Title: PancakeUI
+## Version: v0.1-alpha
+## Notes: A simple, modern UI replacement add-on.
+## Author: Hurubon
+
+## Interface: 30300
+## DefaultState: Enabled
+
+## OptionalDeps: Blizzard_TimeManager
