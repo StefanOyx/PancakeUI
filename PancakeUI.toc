@@ -1,5 +1,5 @@
 ## Title: PancakeUI
-## Version: v0.2-alpha
+## Version: v0.3-alpha
 ## Notes: A simple, modern UI replacement add-on.
 ## Author: Hurubon
 
@@ -8,7 +8,11 @@
 
 ## OptionalDeps: Blizzard_TimeManager
 
+
+
 Libraries\WowColor.lua
 
 PnkUI.xml
 PnkUI.lua
+
+Components\Minimap\Minimap.lua
