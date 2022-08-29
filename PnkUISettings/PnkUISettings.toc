@@ -1,0 +1,9 @@
+## Title: |cFF22E6D2PnkUISettings|r
+## Interface: 30300
+## Version: 1.0
+## Author: Hurubon
+## DefaultState: enabled
+
+## SavedVariables: PnkUISettings
+
+PnkUISettings.lua

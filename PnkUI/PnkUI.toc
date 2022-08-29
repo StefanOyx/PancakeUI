@@ -1,0 +1,29 @@
+## Title: |cFF22E6D2PnkUI|r
+## Interface: 30300
+## Version: 1.3alpha
+## Author: Hurubon
+## DefaultState: enabled
+
+## Dependencies: PnkUISettings
+
+PnkUI.xml
+PnkUI.lua
+
+Libraries\CopyTable.lua
+Libraries\PrettyPrint.lua
+
+DefaultSettings\UnitFrameSettings.lua
+
+Models\UnitFrameModel.lua
+
+Views\Views.lua
+Views\UnitFrames\UnitFrameView.lua
+Views\UnitFrames\PlayerFrameView.lua
+Views\UnitFrames\TargetFrameView.lua
+Views\UnitFrames\FocusFrameView.lua
+
+Controllers\Controllers.lua
+Controllers\UnitFrames\UnitFrameController.lua
+Controllers\UnitFrames\PlayerFrameController.lua
+Controllers\UnitFrames\TargetFrameController.lua
+Controllers\UnitFrames\FocusFrameController.lua
